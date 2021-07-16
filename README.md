@@ -53,7 +53,7 @@ Go to `index.html` to edit the map title, introductory text, and footer, which a
 
 Enter map initial center and zoom level in `settings.js`:
 ```
-// Map's initial center, and zoom level
+// Map's initial center, and zoom level 
 const mapCenter = [41.65, -72.7];
 const mapZoom = 9;
 ```
